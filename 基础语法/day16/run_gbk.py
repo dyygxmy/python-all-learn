@@ -1,0 +1,2 @@
+# -*- coding:gbk -*-
+print("gbk±àÂë³ÌĞò")
